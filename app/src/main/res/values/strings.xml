@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drug Advisor</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Ouverture navigation drawer</string>
+    <string name="navigation_drawer_close">Fermeture navigation drawer</string>
+    <string name="nav_header_title">Drug Advisor</string>
+    <string name="nav_header_subtitle">lucie.drug@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="salutation">Bonjour Lucie,</string>
+    <string name="aide">COMMENT POUVONS-NOUS PRENDRE SOIN DE VOUS?</string>
+</resources>
