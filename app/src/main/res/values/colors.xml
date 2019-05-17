@@ -10,4 +10,7 @@
     <color name="couleurGrisClaire">#4DA1A1A1</color>
     <color name="couleurVerte">#00C853</color>
     <color name="couleurOrange">#FFFF3D00</color>
+    <color name="Vert">#00d2ff</color>
+    <color name="Vert2">#00e5ff</color>
+    <color name="Vert3">#00ffce</color>
 </resources>
