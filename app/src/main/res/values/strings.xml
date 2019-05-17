@@ -9,4 +9,11 @@
     <string name="action_settings">Settings</string>
     <string name="salutation">Bonjour Lucie,</string>
     <string name="aide">COMMENT POUVONS-NOUS PRENDRE SOIN DE VOUS?</string>
+    <string name="title_activity_detail_pharmacy">Détails Pharmacie</string>
+    <string name="pharmacy_activity_detail_pharmacy">Pharmacie De Logpom</string>
+    <string name="pharmacy_address_activity_detail_pharmacy">Lieu dit Carrefour Andem,\nà 10m de la station Bocom\nLogpom - Douala</string>
+    <string name="pharmacy_number_activity_detail_pharmacy">+(237) 655 028 768</string>
+    <string name="pharmacy_email_activity_detail_pharmacy">contact@pharmaciedelogpom.com</string>
+    <string name="pharmacy_programme_activity_detail_pharmacy">Horaires d"'"ouvertures</string>
+    <string name="pharmacy_horaire_activity_detail_pharmacy">Semaine du 27/05/2019 au 06/06/2019</string>
 </resources>
